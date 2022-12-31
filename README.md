@@ -21,7 +21,7 @@
 
 ## Requisitos
 
-Para a realização do projeto, faz-se necessário o conhecimento prévio acerca de acesso remoto através de SSH, além da configuração de VPNs no sistema operacional. Portanto, recomenda-se que o leitor siga o manual para ![SSH](https://github.com/alaelson/2022-924-notasdeaula/blob/main/Aula.924-2022.07.21.md) e o manual para ![VPN](https://github.com/alaelson/2022-924-notasdeaula/blob/main/Aula.924-2022.11.04.md).
+Para a realização do projeto, faz-se necessário o conhecimento prévio acerca de acesso remoto através de SSH, além da configuração de VPNs no sistema operacional. Portanto, recomenda-se que o leitor siga o manual para ![SSH](/files/ssh.md) e o manual para ![VPN](/files/vpn.md).
 
 <br>
 Aplicações necessárias:
